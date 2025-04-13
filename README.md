@@ -2,4 +2,3 @@
 Assignment for Django Trainee
 ****** Questions for Django Trainee at Accuknox *******
 
-1.
